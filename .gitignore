@@ -1,3 +1,4 @@
 # Saved games
 *.sav
 dist
+build
